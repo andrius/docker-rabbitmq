@@ -2,7 +2,7 @@
 #
 # VERSION               0.0.1
 
-FROM      ubuntu:14.04
+FROM      ubuntu:trusty-20190425
 MAINTAINER Mikael Gueck "gumi@iki.fi"
 
 ENV DEBIAN_FRONTEND noninteractive
